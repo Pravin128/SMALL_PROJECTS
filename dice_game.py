@@ -1,4 +1,4 @@
-print("""this is the dice game.......
+print("""this is the dice game
 lets see in how many attempts tou can catch the number!!!""")
 import random
 a=1
