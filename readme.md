@@ -36,6 +36,3 @@ In this game:
 
 4. The game will display the number of attempts it took to guess correctly.
 
-## Example
-
-When you run the game, you will see the following output:
