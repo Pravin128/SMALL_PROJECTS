@@ -36,6 +36,44 @@ In this game:
 
 4. The game will display the number of attempts it took to guess correctly.
 
-## Example
 
-When you run the game, you will see the following output:
+
+# Computer Quiz
+
+This is a simple interactive computer quiz game written in Python. The quiz asks a series of questions related to computer science, and it tracks the user's score based on correct and incorrect answers.
+
+## Description
+
+The quiz includes questions such as:
+- What is the full form of CPU?
+- What does WHO stand for?
+- What does GPU stand for?
+- What is the full form of HTML?
+- What does HTTP stand for?
+
+The game calculates and displays the user's score, the number of correct and incorrect answers, and the percentage score at the end of the quiz.
+
+## Requirements
+
+- Python 3.x
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/computer-quiz.git
+    cd computer-quiz
+    ```
+
+2. Ensure you have Python 3 installed on your machine. You can download it from [python.org](https://www.python.org/).
+
+## Usage
+
+1. Run the game:
+    ```bash
+    python quiz_game.py
+    ```
+
+2. Answer the questions as prompted.
+
+3. At the end of the quiz, you will see your score, the number of correct and incorrect answers, and your percentage score.
